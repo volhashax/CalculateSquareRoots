@@ -12,7 +12,7 @@ namespace it_academy
         TwoRoot
     }
 
-    public class CalculateSquareRoots
+    public class CalculateSquareRoot
     {
         public float x1, x2;
 
